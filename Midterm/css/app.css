@@ -1,0 +1,25 @@
+.pageHeader {
+	background-color: #606060;
+	text-align: center;
+}
+body {
+	background-color: #909090;
+}
+h1, h2 {
+	color: black;
+    text-align: center;
+}
+
+p {
+	text-align: left;
+}
+
+.photoOne {
+	text-align: center;
+}
+.pageFooter {
+	background-color: #606060;
+}
+.pullQuote {
+	text-align: center;
+}
